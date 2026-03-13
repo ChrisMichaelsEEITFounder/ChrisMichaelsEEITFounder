@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopher-michaels-57b383b/">IT Professional, Electrical and Computer Engineer, and Entrepreneur.</a>☺</h1>
+<h1>Hi, I'm Chris, a <a href="https://www.linkedin.com/in/christopher-michaels-57b383b/">Data Analyst.</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
